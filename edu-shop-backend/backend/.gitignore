@@ -89,3 +89,8 @@ temp/
 # Local config
 ########################################
 *.local
+# Python virtual environments
+venv/
+env/
+.venv/
+ENV/
